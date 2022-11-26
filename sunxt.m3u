@@ -1,0 +1,71 @@
+﻿#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.ibb.co/rZnms76/IMG-20221112-231824-481.jpg" group-title="",[color yellow] Welcome to YOUZON TV App[/color]
+https://i.ibb.co/rZnms76/IMG-20221112-231824-481.jpg
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.ibb.co/rZnms76/IMG-20221112-231824-481.jpg" group-title="",[color green] https://youzontv.great-site.net [/color]
+https://i.ibb.co/rZnms76/IMG-20221112-231824-481.jpg
+#EXTINF:-1 tvg-id="sun9023"tvg-logo="https://sund-images.sunnxt.com/9023/300x300_30878292-a63e-4414-acbc-902c0afb4b9b.jpg"",Adithya TV 
+https://noxtv.ml/API/LIVE/IPTV-3RD/master.m3u8?key=MRX&type=sunnxt&c=9023
+#EXTINF:-1 tvg-id="sun26567"tvg-logo="https://sund-images.sunnxt.com/26567/300x300_c103e59e-217e-44fd-a087-651fcf8e6278.jpg"",Chutti TV 
+https://noxtv.ml/API/LIVE/IPTV-3RD/master.m3u8?key=MRX&type=sunnxt&c=26567
+#EXTINF:-1 tvg-id="sun26573"tvg-logo="https://sund-images.sunnxt.com/26573/300x300_5787336f-08b9-480f-9c97-3db09999b558.jpg"",Kochu TV 
+https://noxtv.ml/API/LIVE/IPTV-3RD/master.m3u8?key=MRX&type=sunnxt&c=26573
+#EXTINF:-1 tvg-id="sun26571"tvg-logo="https://sund-images.sunnxt.com/26571/300x300_d0545f75-f99b-4375-8f42-6120c95fc55c.jpg"",Kushi TV 
+https://noxtv.ml/API/LIVE/IPTV-3RD/master.m3u8?key=MRX&type=sunnxt&c=26571
+#EXTINF:-1 tvg-id="sun26577"tvg-logo="https://sund-images.sunnxt.com/26577/300x300_4a0f4f2f-e317-4230-9fb6-6169ef66991d.jpg"",Chintu TV 
+https://noxtv.ml/API/LIVE/IPTV-3RD/master.m3u8?key=MRX&type=sunnxt&c=26577
+#EXTINF:-1 tvg-id="sun32138"tvg-logo="https://sund-images.sunnxt.com/32138/300x300_84b30aac-654e-4dd5-b5ee-bd8204254735.jpg"",KTV 
+https://noxtv.ml/API/LIVE/IPTV-3RD/master.m3u8?key=MRX&type=sunnxt&c=32138
+#EXTINF:-1 tvg-id="sun26566"tvg-logo="https://sund-images.sunnxt.com/26566/300x300_45814266-8c8b-45c6-a801-643e6734f73d.jpg"",KTV HD 
+https://noxtv.ml/API/LIVE/IPTV-3RD/master.m3u8?key=MRX&type=sunnxt&c=26566
+#EXTINF:-1 tvg-id="sun9019"tvg-logo="https://sund-images.sunnxt.com/9019/300x300_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg"",Surya Movies 
+https://noxtv.ml/API/LIVE/IPTV-3RD/master.m3u8?key=MRX&type=sunnxt&c=9019
+#EXTINF:-1 tvg-id="sun26575"tvg-logo="https://sund-images.sunnxt.com/26575/300x300_a73efcfb-e350-491c-94e0-bd75f0d9d5f2.jpg"",Surya Music 
+https://noxtv.ml/API/LIVE/IPTV-3RD/master.m3u8?key=MRX&type=sunnxt&c=26575
+#EXTINF:-1 tvg-id="sun30835"tvg-logo="https://sund-images.sunnxt.com/30835/300x300_143a4af4-2f02-4c9c-814b-af149e6a5a95.jpg"",Surya Comedy 
+https://noxtv.ml/API/LIVE/IPTV-3RD/master.m3u8?key=MRX&type=sunnxt&c=30835
+#EXTINF:-1 tvg-id="sun9018"tvg-logo="https://sund-images.sunnxt.com/9018/300x300_c10cc678-9321-43f8-b717-16fa7913a6ba.jpg"",Surya TV 
+https://noxtv.ml/API/LIVE/IPTV-3RD/master.m3u8?key=MRX&type=sunnxt&c=9018
+#EXTINF:-1 tvg-id="sun26574"tvg-logo="https://sund-images.sunnxt.com/26574/300x300_6ed3be47-b8bf-45ee-adf1-fb5ae9621e08.jpg"",Surya TV HD 
+https://noxtv.ml/API/LIVE/IPTV-3RD/master.m3u8?key=MRX&type=sunnxt&c=26574
+#EXTINF:-1 tvg-id="sun9014"tvg-logo="https://sund-images.sunnxt.com/9014/300x300_8a47fe5c-81a8-42a4-8a05-f168e6a3c868.jpg"",Udaya Comedy 
+https://noxtv.ml/API/LIVE/IPTV-3RD/master.m3u8?key=MRX&type=sunnxt&c=9014
+#EXTINF:-1 tvg-id="sun26576"tvg-logo="https://sund-images.sunnxt.com/26576/300x300_4ad767d2-e5d7-45f2-a95a-ab99f56cc2bf.jpg"",Udaya Movies 
+https://noxtv.ml/API/LIVE/IPTV-3RD/master.m3u8?key=MRX&type=sunnxt&c=26576
+#EXTINF:-1 tvg-id="sun9022"tvg-logo="https://sund-images.sunnxt.com/9022/300x300_d85b4dcc-ad0c-4a5b-84fd-6dd91dc585e2.jpg"",Udaya Music 
+https://noxtv.ml/API/LIVE/IPTV-3RD/master.m3u8?key=MRX&type=sunnxt&c=9022
+#EXTINF:-1 tvg-id="sun9029"tvg-logo="https://sund-images.sunnxt.com/9029/300x300_9f0bcf68-5025-43af-8e60-b83fea67215c.jpg"",Udaya TV 
+https://noxtv.ml/API/LIVE/IPTV-3RD/master.m3u8?key=MRX&type=sunnxt&c=9029
+#EXTINF:-1 tvg-id="sun30846"tvg-logo="https://sund-images.sunnxt.com/30846/300x300_efb20223-e677-49fd-985e-806e7b162c6b.jpg"",Udaya TV HD 
+https://noxtv.ml/API/LIVE/IPTV-3RD/master.m3u8?key=MRX&type=sunnxt&c=30846
+#EXTINF:-1 tvg-id="sun9017"tvg-logo="https://sund-images.sunnxt.com/9017/300x300_66d46fd1-643f-429f-9e19-db603fa0e5e4.jpg"",Gemini TV 
+https://noxtv.ml/API/LIVE/IPTV-3RD/master.m3u8?key=MRX&type=sunnxt&c=9017
+#EXTINF:-1 tvg-id="sun9027"tvg-logo="https://sund-images.sunnxt.com/9027/300x300_5cb5b903-f1a0-4590-bb90-8cfa529322e2.jpg"",Gemini Comedy 
+https://noxtv.ml/API/LIVE/IPTV-3RD/master.m3u8?key=MRX&type=sunnxt&c=9027
+#EXTINF:-1 tvg-id="sun26572"tvg-logo="https://sund-images.sunnxt.com/26572/300x300_da07159f-fa9c-45d0-beb2-685bedc12e33.jpg"",Gemini Life 
+https://noxtv.ml/API/LIVE/IPTV-3RD/master.m3u8?key=MRX&type=sunnxt&c=26572
+#EXTINF:-1 tvg-id="sun9015"tvg-logo="https://sund-images.sunnxt.com/9015/300x300_a4023b29-e49b-4c98-9621-95b7e5c39a19.jpg"",Gemini Movies 
+https://noxtv.ml/API/LIVE/IPTV-3RD/master.m3u8?key=MRX&type=sunnxt&c=9015
+#EXTINF:-1 tvg-id="sun9026"tvg-logo="https://sund-images.sunnxt.com/9026/300x300_4cca05ef-46eb-4076-af6b-a8fdc1b88a27.jpg"",Gemini Music 
+https://noxtv.ml/API/LIVE/IPTV-3RD/master.m3u8?key=MRX&type=sunnxt&c=9026
+#EXTINF:-1 tvg-id="sun26568"tvg-logo="https://sund-images.sunnxt.com/26568/300x300_eaa4e437-cce0-4411-8e46-13640be94c55.jpg"",Gemini Music HD 
+https://noxtv.ml/API/LIVE/IPTV-3RD/master.m3u8?key=MRX&type=sunnxt&c=26568
+#EXTINF:-1 tvg-id="sun26570"tvg-logo="https://sund-images.sunnxt.com/26570/300x300_285efca5-02f3-40a1-8f8c-d913e8f6b989.jpg"",Gemini Movies HD 
+https://noxtv.ml/API/LIVE/IPTV-3RD/master.m3u8?key=MRX&type=sunnxt&c=26570
+#EXTINF:-1 tvg-id="sun14019"tvg-logo="https://sund-images.sunnxt.com/14019/300x300_72a28627-db58-4739-b61c-4e4208897aed.jpg"",Gemini TV HD 
+https://noxtv.ml/API/LIVE/IPTV-3RD/master.m3u8?key=MRX&type=sunnxt&c=14019
+#EXTINF:-1 tvg-id="sun9025"tvg-logo="https://sund-images.sunnxt.com/9025/300x300_c8897f06-b2c0-4856-9d81-02181b821cf7.jpg"",Sun Music 
+https://noxtv.ml/API/LIVE/IPTV-3RD/master.m3u8?key=MRX&type=sunnxt&c=9025
+#EXTINF:-1 tvg-id="sun26569"tvg-logo="https://sund-images.sunnxt.com/26569/300x300_SunLife_26569_1e6604fc-2df9-4598-8f1c-dcbda46254ab.jpg"",Sun Life 
+https://noxtv.ml/API/LIVE/IPTV-3RD/master.m3u8?key=MRX&type=sunnxt&c=26569
+#EXTINF:-1 tvg-id="sun9016"tvg-logo="https://sund-images.sunnxt.com/9016/300x300_4522d18b-56cc-42be-8365-c54e21a6e394.jpg"",Sun TV 
+https://noxtv.ml/API/LIVE/IPTV-3RD/master.m3u8?key=MRX&type=sunnxt&c=9016
+#EXTINF:-1 tvg-id="sun75117"tvg-logo="https://sund-images.sunnxt.com/75117/300x300_4b19b530-f0bb-4b26-a9de-f3cdd5f8be20.jpg"",Sun Bangla 
+https://noxtv.ml/API/LIVE/IPTV-3RD/master.m3u8?key=MRX&type=sunnxt&c=75117
+#EXTINF:-1 tvg-id="sun38926"tvg-logo="https://sund-images.sunnxt.com/38926/300x300_SunNews_38926_5921657d-45b6-445e-9e26-f0cd67be9d39.jpg"",Sun News 
+https://noxtv.ml/API/LIVE/IPTV-3RD/master.m3u8?key=MRX&type=sunnxt&c=38926
+#EXTINF:-1 tvg-id="sun9013"tvg-logo="https://sund-images.sunnxt.com/9013/300x300_ff49d176-a9d2-4f50-b6bc-a10caac8d3a5.jpg"",Sun Music HD 
+https://noxtv.ml/API/LIVE/IPTV-3RD/master.m3u8?key=MRX&type=sunnxt&c=9013
+#EXTINF:-1 tvg-id="sun14020"tvg-logo="https://sund-images.sunnxt.com/14020/300x300_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg"",Sun TV HD 
+https://noxtv.ml/API/LIVE/IPTV-3RD/master.m3u8?key=MRX&type=sunnxt&c=14020
+#EXTINF:-1 tvg-id="sun125944"tvg-logo="https://sund-images.sunnxt.com/125944/300x300_SUNMarathi_125944_5e5a0ad1-23ed-4577-a331-791c6fa0e746.jpg"",Sun Marathi 
+https://noxtv.ml/API/LIVE/IPTV-3RD/master.m3u8?key=MRX&type=sunnxt&c=125944
