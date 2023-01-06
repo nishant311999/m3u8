@@ -1,0 +1,129 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1ae062c88f455fc7cf6fec1039c2f785" tvg-name="Star Sports 1 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/mD2B8h2h/Star-Sports-1-HD.png" tvg-chno="1" group-title="Sports - English",Star Sports 1 HD
+https://m3uplaylist.000webhostapp.com/master.php?id=1ae062c88f455fc7cf6fec1039c2f785&e=.m3u8
+#EXTINF:-1 tvg-id="c4fc10f343784f045b9b40e8c342241d" tvg-name="Star Sports 1 Hindi HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/tg9j476D/Star-Sports-1-HD-Hindi.png" tvg-chno="2" group-title="Sports - Hindi",Star Sports 1 Hindi HD
+https://m3uplaylist.000webhostapp.com/master.php?id=c4fc10f343784f045b9b40e8c342241d&e=.m3u8
+#EXTINF:-1 tvg-id="24cc4b6afd8568399b9bdf0df76c4bd8" tvg-name="PTV Sports" tvg-country="IN" tvg-logo="https://i.postimg.cc/5NzQ2Qss/PTV-Sports.png" tvg-chno="3" group-title="Sports - English",PTV Sports
+https://m3uplaylist.000webhostapp.com/master.php?id=24cc4b6afd8568399b9bdf0df76c4bd8&e=.m3u8
+#EXTINF:-1 tvg-id="14b50855c25c4ab2114a4de00cebe760" tvg-name="Willow HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/XNCwDYR6/Willow.png" tvg-chno="4" group-title="Sports - English",Willow HD
+https://m3uplaylist.000webhostapp.com/master.php?id=14b50855c25c4ab2114a4de00cebe760&e=.m3u8
+#EXTINF:-1 tvg-id="4c881c8c762a15dab455eb8ff2420f5d" tvg-name="Super Sport Cricket" tvg-country="IN" tvg-logo="https://i.postimg.cc/bwzkJHsq/Super-Cricket.png" tvg-chno="5" group-title="Sports - English",Super Sport Cricket
+https://m3uplaylist.000webhostapp.com/master.php?id=4c881c8c762a15dab455eb8ff2420f5d&e=.m3u8
+#EXTINF:-1 tvg-id="425059d92d1bdab653cba296a88fd0ff" tvg-name="TEN Sports Pakistan" tvg-country="IN" tvg-logo="https://i.postimg.cc/cLbzBHqt/Ten-Sports.png" tvg-chno="6" group-title="Sports - English",TEN Sports Pakistan
+https://m3uplaylist.000webhostapp.com/master.php?id=425059d92d1bdab653cba296a88fd0ff&e=.m3u8
+#EXTINF:-1 tvg-id="7b32d768e7d08e0552c492131dba9796" tvg-name="Willow Xtra" tvg-country="IN" tvg-logo="https://i.postimg.cc/KvQw4fJN/Willow-Xtra.png" tvg-chno="7" group-title="Sports - English",Willow Xtra
+https://m3uplaylist.000webhostapp.com/master.php?id=7b32d768e7d08e0552c492131dba9796&e=.m3u8
+#EXTINF:-1 tvg-id="ca67f7766114b88216a9cedbf23d846e" tvg-name="A Sports HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/Dy7R2Hd0/A-Sports-HD.png" tvg-chno="8" group-title="Sports - English",A Sports HD
+https://m3uplaylist.000webhostapp.com/master.php?id=ca67f7766114b88216a9cedbf23d846e&e=.m3u8
+#EXTINF:-1 tvg-id="d38683dbc4241a88b7ff41ea19d0c283" tvg-name="Fox Cricket 501 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/Gp4ZWDPj/Fox-Cricket.png" tvg-chno="9" group-title="Sports - English",Fox Cricket 501 HD
+https://m3uplaylist.000webhostapp.com/master.php?id=d38683dbc4241a88b7ff41ea19d0c283&e=.m3u8
+#EXTINF:-1 tvg-id="117d59a8476870986d67988075584570" tvg-name="Sky Sports Main Event" tvg-country="IN" tvg-logo="https://i.postimg.cc/nr32VRp9/Sky-Sports-Main-Event.png" tvg-chno="10" group-title="Sports - English",Sky Sports Main Event
+https://m3uplaylist.000webhostapp.com/master.php?id=117d59a8476870986d67988075584570&e=.m3u8
+#EXTINF:-1 tvg-id="054d71bb25ea273d317844be00dec11d" tvg-name="Sky Sports Cricket" tvg-country="IN" tvg-logo="https://i.postimg.cc/x1J5Y37q/Sky-Sports-Cricket.png" tvg-chno="11" group-title="Sports - English",Sky Sports Cricket
+https://m3uplaylist.000webhostapp.com/master.php?id=054d71bb25ea273d317844be00dec11d&e=.m3u8
+#EXTINF:-1 tvg-id="ea3ebdfdd1a0e5772aa4ba8106726611" tvg-name="Sky Sports Action" tvg-country="IN" tvg-logo="https://i.postimg.cc/t70T6yXK/Sky-Sports-Action.png" tvg-chno="12" group-title="Sports - English",Sky Sports Action
+https://m3uplaylist.000webhostapp.com/master.php?id=ea3ebdfdd1a0e5772aa4ba8106726611&e=.m3u8
+#EXTINF:-1 tvg-id="1326d224acb492f08e9f2adb52930983" tvg-name="Sky Sports Golf" tvg-country="IN" tvg-logo="https://i.postimg.cc/qB1x3FHz/Sky-Sports-Golf.png" tvg-chno="13" group-title="Sports - English",Sky Sports Golf
+https://m3uplaylist.000webhostapp.com/master.php?id=1326d224acb492f08e9f2adb52930983&e=.m3u8
+#EXTINF:-1 tvg-id="ad4cea504a00e532d8afe8fc08bdfab3" tvg-name="Sky Sports Premier League" tvg-country="IN" tvg-logo="https://i.postimg.cc/85jMBpSc/Sky-Sports-Premiere-League.png" tvg-chno="14" group-title="Sports - English",Sky Sports Premier League
+https://m3uplaylist.000webhostapp.com/master.php?id=ad4cea504a00e532d8afe8fc08bdfab3&e=.m3u8
+#EXTINF:-1 tvg-id="d96555cfd390267e67d82ee1d33ef7a0" tvg-name="Sky Sports Football" tvg-country="IN" tvg-logo="https://i.postimg.cc/7LPgh1tg/Sky-Sports-Football.png" tvg-chno="15" group-title="Sports - English",Sky Sports Football
+https://m3uplaylist.000webhostapp.com/master.php?id=d96555cfd390267e67d82ee1d33ef7a0&e=.m3u8
+#EXTINF:-1 tvg-id="0996b06ce8928da5fd463e8692d846a0" tvg-name="Sky Sports Arena" tvg-country="IN" tvg-logo="https://i.postimg.cc/PqG5FdYN/Sky-Sports-Arena.png" tvg-chno="16" group-title="Sports - English",Sky Sports Arena
+https://m3uplaylist.000webhostapp.com/master.php?id=0996b06ce8928da5fd463e8692d846a0&e=.m3u8
+#EXTINF:-1 tvg-id="573edd07d0c66e24982f36d138b43814" tvg-name="Sky Sports F1" tvg-country="IN" tvg-logo="https://i.postimg.cc/63t5tzHX/Sky-Sports-F1.png" tvg-chno="17" group-title="Sports - English",Sky Sports F1
+https://m3uplaylist.000webhostapp.com/master.php?id=573edd07d0c66e24982f36d138b43814&e=.m3u8
+#EXTINF:-1 tvg-id="a786d65d6b39193abc758dd0793de2a5" tvg-name="Sky Sports Mix" tvg-country="IN" tvg-logo="https://i.postimg.cc/zDdXYCKs/Sky-Sports-Mix.png" tvg-chno="18" group-title="Sports - English",Sky Sports Mix
+https://m3uplaylist.000webhostapp.com/master.php?id=a786d65d6b39193abc758dd0793de2a5&e=.m3u8
+#EXTINF:-1 tvg-id="6a1141594ee5ceab5e769f5995459a70" tvg-name="Sky Sports News" tvg-country="IN" tvg-logo="https://i.postimg.cc/htmSmN6n/Sky-Sports-News.png" tvg-chno="19" group-title="Sports - English",Sky Sports News
+https://m3uplaylist.000webhostapp.com/master.php?id=6a1141594ee5ceab5e769f5995459a70&e=.m3u8
+#EXTINF:-1 tvg-id="92fd996df8ee21050263d9791e184711" tvg-name="BT Sport 1" tvg-country="IN" tvg-logo="https://i.postimg.cc/4d2Cq1qw/BT-Sports-1-HD.png" tvg-chno="20" group-title="Sports - English",BT Sport 1
+https://m3uplaylist.000webhostapp.com/master.php?id=92fd996df8ee21050263d9791e184711&e=.m3u8
+#EXTINF:-1 tvg-id="2df691f07b22ba99778d1684eb860757" tvg-name="BT Sport 2" tvg-country="IN" tvg-logo="https://i.postimg.cc/RZTvGwSp/BT-Sports-2-HD.png" tvg-chno="21" group-title="Sports - English",BT Sport 2
+https://m3uplaylist.000webhostapp.com/master.php?id=2df691f07b22ba99778d1684eb860757&e=.m3u8
+#EXTINF:-1 tvg-id="e74e2465d1c4cac2de7c3c49aaa9592f" tvg-name="BT Sport 3" tvg-country="IN" tvg-logo="https://i.postimg.cc/Jh4MFttr/BT-Sports-3-HD.png" tvg-chno="22" group-title="Sports - English",BT Sport 3
+https://m3uplaylist.000webhostapp.com/master.php?id=e74e2465d1c4cac2de7c3c49aaa9592f&e=.m3u8
+#EXTINF:-1 tvg-id="2d10cd22aa2ab6d26408a0fe2cc788ce" tvg-name="BT Sport 4" tvg-country="IN" tvg-logo="https://i.postimg.cc/K4SmpN3w/BT-Sport-4.png" tvg-chno="23" group-title="Sports - English",BT Sport 4
+https://m3uplaylist.000webhostapp.com/master.php?id=2d10cd22aa2ab6d26408a0fe2cc788ce&e=.m3u8
+#EXTINF:-1 tvg-id="dee40bb12a08e3db82456ebecd8d9d41" tvg-name="LaLiga Tv" tvg-country="IN" tvg-logo="https://i.postimg.cc/mkMPrhYx/La-Liga-TV.png" tvg-chno="24" group-title="Sports - English",LaLiga Tv
+https://m3uplaylist.000webhostapp.com/master.php?id=dee40bb12a08e3db82456ebecd8d9d41&e=.m3u8
+#EXTINF:-1 tvg-id="13d3d6d0c5ac1f2b02e279109eaaaba3" tvg-name="EuroSport 1" tvg-country="IN" tvg-logo="https://i.postimg.cc/K8s3JXvH/Eurosport-1.png" tvg-chno="25" group-title="Sports - English",EuroSport 1
+https://m3uplaylist.000webhostapp.com/master.php?id=13d3d6d0c5ac1f2b02e279109eaaaba3&e=.m3u8
+#EXTINF:-1 tvg-id="0c10f093e0030d039681aca4388c59e4" tvg-name="EuroSport 2" tvg-country="IN" tvg-logo="https://i.postimg.cc/Px1LXPbg/Eurosport-2.png" tvg-chno="26" group-title="Sports - English",EuroSport 2
+https://m3uplaylist.000webhostapp.com/master.php?id=0c10f093e0030d039681aca4388c59e4&e=.m3u8
+#EXTINF:-1 tvg-id="ae270065146b68f8225bb571ce29b1d4" tvg-name="Fox Sports 502 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/0Nwjnb4z/Fox-Sports.png" tvg-chno="27" group-title="Sports - English",Fox Sports 502 HD
+https://m3uplaylist.000webhostapp.com/master.php?id=ae270065146b68f8225bb571ce29b1d4&e=.m3u8
+#EXTINF:-1 tvg-id="0017f5eeb72c1ae4bcaeea23463aa1c4" tvg-name="Fox Sports 503 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/0Nwjnb4z/Fox-Sports.png" tvg-chno="28" group-title="Sports - English",Fox Sports 503 HD
+https://m3uplaylist.000webhostapp.com/master.php?id=0017f5eeb72c1ae4bcaeea23463aa1c4&e=.m3u8
+#EXTINF:-1 tvg-id="99704f044d7d2e6be8b5ac9ae3718466" tvg-name="Fox Sports 504 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/0Nwjnb4z/Fox-Sports.png" tvg-chno="29" group-title="Sports - English",Fox Sports 504 HD
+https://m3uplaylist.000webhostapp.com/master.php?id=99704f044d7d2e6be8b5ac9ae3718466&e=.m3u8
+#EXTINF:-1 tvg-id="a3d53d2255f4888be091e2d3662479c7" tvg-name="Fox Sports 505 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/0Nwjnb4z/Fox-Sports.png" tvg-chno="30" group-title="Sports - English",Fox Sports 505 HD
+https://m3uplaylist.000webhostapp.com/master.php?id=a3d53d2255f4888be091e2d3662479c7&e=.m3u8
+#EXTINF:-1 tvg-id="215a391ef40587eb68dbf1196d34d650" tvg-name="Fox Sports 506 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/0Nwjnb4z/Fox-Sports.png" tvg-chno="31" group-title="Sports - English",Fox Sports 506 HD
+https://m3uplaylist.000webhostapp.com/master.php?id=215a391ef40587eb68dbf1196d34d650&e=.m3u8
+#EXTINF:-1 tvg-id="381efb65ff186b34e5d98d4750346959" tvg-name="WWE Network" tvg-country="IN" tvg-logo="https://i.postimg.cc/SRNmBsg7/WWE.png" tvg-chno="32" group-title="Sports - English",WWE Network
+https://m3uplaylist.000webhostapp.com/master.php?id=381efb65ff186b34e5d98d4750346959&e=.m3u8
+#EXTINF:-1 tvg-id="5b56e23b81b805d521aa5116c8aea041" tvg-name="Premier Sports 1" tvg-country="IN" tvg-logo="https://i.postimg.cc/wjFZrVSP/Premier-Sports.png" tvg-chno="33" group-title="Sports - English",Premier Sports 1
+https://m3uplaylist.000webhostapp.com/master.php?id=5b56e23b81b805d521aa5116c8aea041&e=.m3u8
+#EXTINF:-1 tvg-id="c4237cc4b5f54a8d517cd8630f32aeee" tvg-name="Premier Sports 2" tvg-country="IN" tvg-logo="https://i.postimg.cc/wjFZrVSP/Premier-Sports.png" tvg-chno="34" group-title="Sports - English",Premier Sports 2
+https://m3uplaylist.000webhostapp.com/master.php?id=c4237cc4b5f54a8d517cd8630f32aeee&e=.m3u8
+#EXTINF:-1 tvg-id="c3b852d0f1ee7d392d645026c363bd92" tvg-name="Geo Super" tvg-country="IN" tvg-logo="https://i.postimg.cc/HnGhMPyJ/Geo-Super.png" tvg-chno="35" group-title="Sports - Urdu",Geo Super
+https://m3uplaylist.000webhostapp.com/master.php?id=c3b852d0f1ee7d392d645026c363bd92&e=.m3u8
+#EXTINF:-1 tvg-id="595f13e713ade9afc850f28c3f3673a7" tvg-name="Bein Sports 1 English" tvg-country="IN" tvg-logo="https://i.postimg.cc/GpCtMcnz/Bein-Sports-HD-1.png" tvg-chno="36" group-title="Sports - English",Bein Sports 1 English
+https://m3uplaylist.000webhostapp.com/master.php?id=595f13e713ade9afc850f28c3f3673a7&e=.m3u8
+#EXTINF:-1 tvg-id="aba40e195b69ee5ca7ecbe08368d2737" tvg-name="Bein Sports 2 English" tvg-country="IN" tvg-logo="https://i.postimg.cc/ZKNJX1cQ/Bein-Sports-HD2.png" tvg-chno="37" group-title="Sports - English",Bein Sports 2 English
+https://m3uplaylist.000webhostapp.com/master.php?id=aba40e195b69ee5ca7ecbe08368d2737&e=.m3u8
+#EXTINF:-1 tvg-id="52b49f8a8cee2a3ac25bf4be0ade294b" tvg-name="Bein Sports 3 English" tvg-country="IN" tvg-logo="https://i.postimg.cc/Z5k6Szhv/Bein-Sports-HD-3.png" tvg-chno="38" group-title="Sports - English",Bein Sports 3 English
+https://m3uplaylist.000webhostapp.com/master.php?id=52b49f8a8cee2a3ac25bf4be0ade294b&e=.m3u8
+#EXTINF:-1 tvg-id="921d9777020d8c2dfdb851e2d9e0bad1" tvg-name="Bein Sports 1 Premium" tvg-country="IN" tvg-logo="https://i.postimg.cc/6QtbL1zg/Bein-Sports-Premium-1.png" tvg-chno="39" group-title="Sports - English",Bein Sports 1 Premium
+https://m3uplaylist.000webhostapp.com/master.php?id=921d9777020d8c2dfdb851e2d9e0bad1&e=.m3u8
+#EXTINF:-1 tvg-id="547e29a31374bb712487e05dbed835dc" tvg-name="Bein Sports 2 Premium" tvg-country="IN" tvg-logo="https://i.postimg.cc/6q2Mps52/Bein-Sports-Premium-2.png" tvg-chno="40" group-title="Sports - English",Bein Sports 2 Premium
+https://m3uplaylist.000webhostapp.com/master.php?id=547e29a31374bb712487e05dbed835dc&e=.m3u8
+#EXTINF:-1 tvg-id="6c8125aa2e597b9c4f99a196fa9c8705" tvg-name="Bein Sports 3 Premium" tvg-country="IN" tvg-logo="https://i.postimg.cc/k5jrVm9f/Bein-Sports-Premium-3.png" tvg-chno="41" group-title="Sports - English",Bein Sports 3 Premium
+https://m3uplaylist.000webhostapp.com/master.php?id=6c8125aa2e597b9c4f99a196fa9c8705&e=.m3u8
+#EXTINF:-1 tvg-id="0aa00dadf82f57e48ec094d235c637cc" tvg-name="SuperSport Football" tvg-country="IN" tvg-logo="https://i.postimg.cc/8zgdQf8V/Super-Sport-Football.png" tvg-chno="42" group-title="Sports - English",SuperSport Football
+https://m3uplaylist.000webhostapp.com/master.php?id=0aa00dadf82f57e48ec094d235c637cc&e=.m3u8
+#EXTINF:-1 tvg-id="b3943d0e57072defe4279fb1f04b5c86" tvg-name="SuperSport Premier" tvg-country="IN" tvg-logo="https://i.postimg.cc/nzrBYvmq/Super-Sport-Premiere-League.png" tvg-chno="43" group-title="Sports - English",SuperSport Premier
+https://m3uplaylist.000webhostapp.com/master.php?id=b3943d0e57072defe4279fb1f04b5c86&e=.m3u8
+#EXTINF:-1 tvg-id="7f1e38f599f7964363f48aab8aee2511" tvg-name="SuperSport Laliga" tvg-country="IN" tvg-logo="https://i.postimg.cc/FR6cP7b8/Super-Sport-La-Liga.png" tvg-chno="44" group-title="Sports - English",SuperSport Laliga
+https://m3uplaylist.000webhostapp.com/master.php?id=7f1e38f599f7964363f48aab8aee2511&e=.m3u8
+#EXTINF:-1 tvg-id="4e4aa5dcfbc9f8b61d779fd68cd05c07" tvg-name="SuperSport Rugby" tvg-country="IN" tvg-logo="https://i.postimg.cc/sgznPNgS/Super-Sport-Rugby.png" tvg-chno="45" group-title="Sports - English",SuperSport Rugby
+https://m3uplaylist.000webhostapp.com/master.php?id=4e4aa5dcfbc9f8b61d779fd68cd05c07&e=.m3u8
+#EXTINF:-1 tvg-id="6ff312fd796008ff2af73bbffe5a8f82" tvg-name="SuperSport Grandstand" tvg-country="IN" tvg-logo="https://i.postimg.cc/0QzZ2gVg/Super-Sport-Grandstand.png" tvg-chno="46" group-title="Sports - English",SuperSport Grandstand
+https://m3uplaylist.000webhostapp.com/master.php?id=6ff312fd796008ff2af73bbffe5a8f82&e=.m3u8
+#EXTINF:-1 tvg-id="90783bd0b0627cebbda63c7effa0abce" tvg-name="SuperSport Tennis" tvg-country="IN" tvg-logo="https://i.postimg.cc/7YFDnDF6/Super-Sport-Tennis.png" tvg-chno="47" group-title="Sports - English",SuperSport Tennis
+https://m3uplaylist.000webhostapp.com/master.php?id=90783bd0b0627cebbda63c7effa0abce&e=.m3u8
+#EXTINF:-1 tvg-id="a9c20abb043c41bab9ec8201e0733783" tvg-name="SuperSport Action" tvg-country="IN" tvg-logo="https://i.postimg.cc/9Mhr8ZsD/Super-Sport-Action.png" tvg-chno="48" group-title="Sports - English",SuperSport Action
+https://m3uplaylist.000webhostapp.com/master.php?id=a9c20abb043c41bab9ec8201e0733783&e=.m3u8
+#EXTINF:-1 tvg-id="3e7b358bd303aa4ca346774500731553" tvg-name="SuperSport Golf" tvg-country="IN" tvg-logo="https://i.postimg.cc/ncgVSqDn/Super-Sport-Golf.png" tvg-chno="49" group-title="Sports - English",SuperSport Golf
+https://m3uplaylist.000webhostapp.com/master.php?id=3e7b358bd303aa4ca346774500731553&e=.m3u8
+#EXTINF:-1 tvg-id="77df99fe3ce533583d4d07b519430e71" tvg-name="SuperSport Maximo" tvg-country="IN" tvg-logo="https://i.postimg.cc/4xw164Mk/Super-Sport-Maximo.png" tvg-chno="50" group-title="Sports - English",SuperSport Maximo
+https://m3uplaylist.000webhostapp.com/master.php?id=77df99fe3ce533583d4d07b519430e71&e=.m3u8
+#EXTINF:-1 tvg-id="0c5f421a4ac54f0b30ef3f3e310eba70" tvg-name="Bein Sports 1 AR" tvg-country="IN" tvg-logo="https://i.postimg.cc/BbMvhyG6/Bein-Sports.png" tvg-chno="51" group-title="Sports - Arabic",Bein Sports 1 AR
+https://m3uplaylist.000webhostapp.com/master.php?id=0c5f421a4ac54f0b30ef3f3e310eba70&e=.m3u8
+#EXTINF:-1 tvg-id="axc46641d8421cab67ab2d76210fc795" tvg-name="Bein Sports 2 AR" tvg-country="IN" tvg-logo="https://i.postimg.cc/BbMvhyG6/Bein-Sports.png" tvg-chno="52" group-title="Sports - Arabic",Bein Sports 2 AR
+https://m3uplaylist.000webhostapp.com/master.php?id=axc46641d8421cab67ab2d76210fc795&e=.m3u8
+#EXTINF:-1 tvg-id="62208b295e3dd1efdf2269ddeebf7cd5" tvg-name="Bein Sports 3 AR" tvg-country="IN" tvg-logo="https://i.postimg.cc/BbMvhyG6/Bein-Sports.png" tvg-chno="53" group-title="Sports - Arabic",Bein Sports 3 AR
+https://m3uplaylist.000webhostapp.com/master.php?id=62208b295e3dd1efdf2269ddeebf7cd5&e=.m3u8
+#EXTINF:-1 tvg-id="hb381e2bfc17989333a3e30df2ccce61" tvg-name="Bein Sports 4 AR" tvg-country="IN" tvg-logo="https://i.postimg.cc/BbMvhyG6/Bein-Sports.png" tvg-chno="54" group-title="Sports - Arabic",Bein Sports 4 AR
+https://m3uplaylist.000webhostapp.com/master.php?id=hb381e2bfc17989333a3e30df2ccce61&e=.m3u8
+#EXTINF:-1 tvg-id="23413405e52af946372ffc9fd8488f1c" tvg-name="Bein Sports 5 AR" tvg-country="IN" tvg-logo="https://i.postimg.cc/BbMvhyG6/Bein-Sports.png" tvg-chno="55" group-title="Sports - Arabic",Bein Sports 5 AR
+https://m3uplaylist.000webhostapp.com/master.php?id=23413405e52af946372ffc9fd8488f1c&e=.m3u8
+#EXTINF:-1 tvg-id="209726c2c7485c3963d4edc3e7937c0b" tvg-name="Bein Sports 6 AR" tvg-country="IN" tvg-logo="https://i.postimg.cc/BbMvhyG6/Bein-Sports.png" tvg-chno="56" group-title="Sports - Arabic",Bein Sports 6 AR
+https://m3uplaylist.000webhostapp.com/master.php?id=209726c2c7485c3963d4edc3e7937c0b&e=.m3u8
+#EXTINF:-1 tvg-id="6393161d6ffbb4739DDD3dee1b3204d2" tvg-name="Bein Sports 7 AR" tvg-country="IN" tvg-logo="https://i.postimg.cc/BbMvhyG6/Bein-Sports.png" tvg-chno="57" group-title="Sports - Arabic",Bein Sports 7 AR
+https://m3uplaylist.000webhostapp.com/master.php?id=6393161d6ffbb4739DDD3dee1b3204d2&e=.m3u8
+#EXTINF:-1 tvg-id="cc387e24b33b57f38b405e47d22df149" tvg-name="Bein Sports 1 FR" tvg-country="IN" tvg-logo="https://i.postimg.cc/cJPp7cgn/Bein-Sports-1-FR.png" tvg-chno="58" group-title="Sports - French",Bein Sports 1 FR
+https://m3uplaylist.000webhostapp.com/master.php?id=cc387e24b33b57f38b405e47d22df149&e=.m3u8
+#EXTINF:-1 tvg-id="b56287756907ced5f557c002405f6575" tvg-name="Bein Sports 2 FR" tvg-country="IN" tvg-logo="https://i.postimg.cc/mZYvMCbP/Bein-Sports-2-FR.png" tvg-chno="59" group-title="Sports - French",Bein Sports 2 FR
+https://m3uplaylist.000webhostapp.com/master.php?id=b56287756907ced5f557c002405f6575&e=.m3u8
+#EXTINF:-1 tvg-id="180d35164499a00805e017354d00d5de" tvg-name="Bein Sports 3 FR" tvg-country="IN" tvg-logo="https://i.postimg.cc/m2VKp41R/Bein-Sports-3-FR.png" tvg-chno="60" group-title="Sports - French",Bein Sports 3 FR
+https://m3uplaylist.000webhostapp.com/master.php?id=180d35164499a00805e017354d00d5de&e=.m3u8
+#EXTINF:-1 tvg-id="831afdd8f6449bed53df4448e7b02f61" tvg-name="SuperSport Variety 1" tvg-country="IN" tvg-logo="https://i.postimg.cc/Gmhq4s2n/Super-Sport-Variety-1.png" tvg-chno="61" group-title="Sports - English",SuperSport Variety 1
+https://m3uplaylist.000webhostapp.com/master.php?id=831afdd8f6449bed53df4448e7b02f61&e=.m3u8
+#EXTINF:-1 tvg-id="d93c1141b93cedf3a3d83dd6776081c1" tvg-name="SuperSport Variety 2" tvg-country="IN" tvg-logo="https://i.postimg.cc/nrJ1pX55/Super-Sport-Variety-2.png" tvg-chno="62" group-title="Sports - English",SuperSport Variety 2
+https://m3uplaylist.000webhostapp.com/master.php?id=d93c1141b93cedf3a3d83dd6776081c1&e=.m3u8
+#EXTINF:-1 tvg-id="07ecfef5e99674d167af5030ccf28854" tvg-name="SuperSport Variety 3" tvg-country="IN" tvg-logo="https://i.postimg.cc/QdtJ8G4X/Super-Sport-Variety-3.png" tvg-chno="63" group-title="Sports - English",SuperSport Variety 3
+https://m3uplaylist.000webhostapp.com/master.php?id=07ecfef5e99674d167af5030ccf28854&e=.m3u8
+#EXTINF:-1 tvg-id="957cWb1db00b19387aeb318296adab1d" tvg-name="SuperSport Variety 4" tvg-country="IN" tvg-logo="https://i.postimg.cc/28HnX9zg/Super-Sport-Variety-4.png" tvg-chno="64" group-title="Sports - English",SuperSport Variety 4
+https://m3uplaylist.000webhostapp.com/master.php?id=957cWb1db00b19387aeb318296adab1d&e=.m3u8
